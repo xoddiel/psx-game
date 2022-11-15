@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+.vs/
+
+# build artifacts
+target/
